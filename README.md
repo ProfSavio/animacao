@@ -24,6 +24,12 @@ A partir desse conceito, podemos observar como uma animação em um jogo pode se
 
 ---
 
+<p align="center">
+  <img src="animacao.gif" width="600">
+</p>
+
+---
+
 # 📋 Requisitos do projeto
 
 Antes de observar o código, é importante identificar o que precisamos para construir uma animação.
